@@ -5,4 +5,7 @@ void createFile()
 {
 	FILE* fp = NULL;
 	fopen_s(&fp, "Output.csv", "w+");
+
+	fprintf(fp, "Sup!, niggas\n");
 }
+

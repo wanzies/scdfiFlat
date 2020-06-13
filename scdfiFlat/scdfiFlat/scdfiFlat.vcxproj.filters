@@ -18,5 +18,11 @@
     <ClCompile Include="scdfiFlat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="readFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

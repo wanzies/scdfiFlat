@@ -1,0 +1,5 @@
+Unit, Current Pax, Unit type(room), Electricity, Temperature (celsius), Evacuated, Emergency
+#02-93,6,5,true,50,true,no
+#02-95,6,5,false,33,false,yes
+#02-97,0,4,false,34,false,no
+#02-99,1,1,true,90,false,yes

@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="readFile.cpp" />
+    <ClCompile Include="flatManager.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main.h" />
   </ItemGroup>

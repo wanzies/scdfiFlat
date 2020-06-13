@@ -2,16 +2,16 @@
 //
 
 #include "main.h"
-
+FILE* fp = NULL;
 
 int main()
 {
+	
+	fopen_s(&fp, "Output.csv", "w+");
 	printf("Hello\n");
-	createFile();
-	printf("File Created!\n");
-
-
-
+	fprintf(fp,"File Created!\n");
+	flatManager();
+	fclose(fp);
 	return 0;
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

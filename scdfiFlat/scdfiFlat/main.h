@@ -6,4 +6,4 @@
 
 extern FILE* fp; // the connection to the file
 
-void createFile(); // fn to create file and re write existing
+void flatManager(); // fn for flatmanager

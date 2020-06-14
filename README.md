@@ -5,7 +5,7 @@ improving Singapore's crisis handling and that our contribution would hopefully 
 
 Our idea is to improve on our SCDF's reactive and reactive responses to crisis in flats by introducing a system that 
 not only handles crisis, but also gathers the data required. Our technology, the iFlats system, equips flats with smart sprinklers and
-motion sensors controlled from the flat's individual control room.
+motion sensors controlled from the flat's individual control room. Flats are divided in groups and are handled by different cluster leaders and flat managers to improve on crisis management
 
 
 Our pitch video can be found here:

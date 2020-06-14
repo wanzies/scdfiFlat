@@ -4,18 +4,14 @@
 //#define _CRT_SECURE_NO_WARNINGS
 #include "main.h"
 
-FILE* fp = NULL;
+
 
 int main()
 {
-	
-	
-	fopen_s(&fp, "Output.csv", "w+");
-	printf("Hello\n");
-	fprintf(fp,"File Created!\n");
+	flatManager();
 	createFRFile();
-	printf("File is generated");
-	fclose(fp);
+	system("pause");
+
 	return 0;
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

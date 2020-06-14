@@ -12,7 +12,9 @@ Our pitch video can be found here:
 https://www.youtube.com/watch?v=1Bq5cAB3lyo
 
 Our architecture of our proposed detailed solution can be found here:
+
 Video presentation: https://www.youtube.com/watch?v=DF3sIpmw_mo 
+
 Presentation slides: https://docs.google.com/presentation/d/1vUPcbSliNxFFhRJec5ChL87vE_alY6yXEYsYGK3Q2iU/edit?usp=sharing
 
 Getting Started:
